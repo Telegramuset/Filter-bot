@@ -94,10 +94,10 @@
 * `ADMINS`: 2017335429
 * `DATABASE_URI`: mongodb+srv://samir:<password>@atlascluster.zfmjvkg.mongodb.net/?retryWrites=true&w=majority
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+* `LOG_CHANNEL` : 1962672428
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
-* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
+* `FILE_STORE_CHANNEL`: 1962672428
 * Check [info.py](https://github.com/Joelkb/DQ-The-File-Donor/blob/master/info.py) for more optional variables
 
 
