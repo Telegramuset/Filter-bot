@@ -85,7 +85,15 @@
 ```
 
 ## Variables
-
+* `BOT_TOKEN`: 6748815396:AAEUR52C3Qc6JzNaYvOHxoXqm-3GzqKSxNM
+* `API_ID`: 29895250
+* `API_HASH`: 29ca1e2311efdf950eea03a6ae2bc8ee
+* `CHANNELS`: @dp_cinema_channel
+* `ADMINS`: 2017335429
+* `DATABASE_URI`: mongodb+srv://samir:<Meshram@>@atlascluster.zfmjvkg.mongodb.net/?retryWrites=true&w=majority
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `LOG_CHANNEL` : 1962672428
+* 
 ### Required Variables
 * `BOT_TOKEN`: 6748815396:AAEUR52C3Qc6JzNaYvOHxoXqm-3GzqKSxNM
 * `API_ID`: 29895250
